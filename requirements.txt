@@ -6,6 +6,8 @@ aiosignal==1.3.2
 altair==5.5.0
 annotated-types==0.7.0
 anyio==4.9.0
+argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1733311059102/work
+argon2-cffi-bindings @ file:///D:/bld/argon2-cffi-bindings_1666850983803/work
 arrow @ file:///home/conda/feedstock_root/build_artifacts/arrow_1733584251875/work
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1733250440834/work
 async-lru @ file:///home/conda/feedstock_root/build_artifacts/async-lru_1733584297267/work
